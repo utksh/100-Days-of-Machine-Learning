@@ -1,6 +1,3 @@
 # 100-Days-of-Machine-Learning
-This repository contains notebook to accompany 100 days of ML challenge
+This repository contains implementation of Random Forest
 
-ML challenge inspired by
-<!--Links-->
-[100 Days ML Code Challenge](https://www.youtube.com/watch?v=cuQMBj1cWPo)
