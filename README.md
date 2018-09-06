@@ -1,3 +1,3 @@
-# 100-Days-of-Machine-Learning
+# Random Forest
 This repository contains implementation of Random Forest
 
